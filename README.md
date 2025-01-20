@@ -138,4 +138,3 @@ This project was developed as part of the **CS 320** course. It is shared strict
 -   Redistribution or reuse of this code for academic submissions is prohibited and may violate academic integrity policies.
 -   The project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Any usage outside academic purposes must include proper attribution.
 
-```
